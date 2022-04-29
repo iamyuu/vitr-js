@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"usernamehw.errorlens",
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"antfu.unocss",
+		"ZixuanChen.vitest-explorer"
+	]
+}

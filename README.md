@@ -1,13 +1,7 @@
 # vitr
 
 ```sh
-npx degit iamyuu/vitr
-```
-
-Or typescript version
-
-```sh
-npx degit iamyuu/vitr#ts
+npx degit iamyuu/vitr-js
 ```
 
 ## Available Scripts
